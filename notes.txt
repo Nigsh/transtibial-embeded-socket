@@ -1,0 +1,13 @@
+Steps to run SmartFit
+1. Install Python (if not already)
+Download from python.org → install with default settings.
+2. Extract the zip
+Right-click SmartFit.zip → Extract All → open the smartfit folder.
+3. Open terminal in that folder
+Hold Shift + right-click inside the folder → "Open PowerShell window here"
+4. Install the one dependency
+bash: pip install flask
+5. Run the app
+bash: python app.py
+6. Open the UI
+Go to http://localhost:5000 in any browser.
